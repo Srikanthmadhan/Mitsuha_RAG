@@ -4,4 +4,5 @@ pymupdf
 python-docx
 google-generativeai
 sentence-transformers
+PYTHON_VERSION=3.10.13
 faiss-cpu
